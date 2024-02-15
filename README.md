@@ -1,1 +1,2 @@
-# test
+# go-api-test
+GOでAPIを書くテスト
